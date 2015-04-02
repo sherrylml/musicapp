@@ -1,2 +1,3 @@
-I don't know how to write it yet.
-I will complete it later.
+小组内的一个小应用
+开发环境：django1.7.5   python2.7.9
+备份下，方便修改以及版本维护
